@@ -23,9 +23,6 @@ I`m a beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcM
 <h1></h1>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MakS2711&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-<h1></h1>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakS2711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
