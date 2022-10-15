@@ -23,10 +23,10 @@ I`m a beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcM
 <h1></h1>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakS2711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mektogon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**MakS2711/MakS2711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mektogon/mektogon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
