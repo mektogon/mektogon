@@ -8,9 +8,6 @@
 ### :man_technologist: About Me :
 I`m a beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - 🐉 My name is Maxim Dorofeev
-- 📆 I'm 21 years old
-- 🏫 I'm currently studying at the Altai State University
-- 📖 I'm currently learning Java and Spring Framework
 <h1></h1>
 
 ### :hammer_and_wrench: Languages and Tools :
